@@ -18,3 +18,7 @@ Toolbar Transparente | Sketchware
 2. Agora adicione mais uma linear, altere o ID dessa linear para "status_bar". Como na imagem abaixo:
 
 ![Print 4](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-123638.png)
+
+3. Agora adicione mais uma linear, e altere o ID dessa linear para "toolbar". Como na imagem abaixo:
+
+![Print 5](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-123706.png)
