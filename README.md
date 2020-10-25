@@ -22,3 +22,9 @@ Toolbar Transparente | Sketchware
 3. Agora adicione mais uma linear, e altere o ID dessa linear para "toolbar". Como na imagem abaixo:
 
 ![Print 5](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-123706.png)
+
+### Agora vamos para os códigos
+Na onCreate da sua tela, adicione os seguintes códigos dentro do bloco Adicionar Fonte Diretamente
+
+![Print 6](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124121.png)
+
