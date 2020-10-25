@@ -28,7 +28,7 @@ Na onCreate da sua tela, adicione os seguintes códigos dentro do bloco Adiciona
 
 ![Print 6](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124121.png)
 
-1. Primeiro código:
+### Primeiro código:
 
 _toolbar.setBackgroundColor(Color.TRANSPARENT);
 
@@ -38,4 +38,16 @@ Window window = this.getWindow();
 
  window.setStatusBarColor(Color.TRANSPARENT); }
  
+ ### Segundo código:
  
+ ((ViewGroup)_toolbar.getParent()).removeView(_toolbar);
+
+toolbar.addView(_toolbar);
+
+int statusBar = getResources().getIdentifier("status_bar_height", "dimen", "android");
+
+if (statusBar > 0) {
+
+status_bar.getLayoutParams().height = getResources().getDimensionPixelSize(statusBar); }
+
+toolbar.setElevation(4f);
