@@ -4,4 +4,4 @@ Toolbar Transparente | Sketchware
 
 ![Print 1](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124420.png)
 
-##### Antes de tudo temos que ativar a biblioteca do App Compat. Clique em Biblioteca › AppCompat e Design e ative-a
+##### Antes de tudo temos que ativar a biblioteca do App Compat. Clique em Biblioteca › AppCompat e Design e ative-a.
