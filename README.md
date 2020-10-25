@@ -4,11 +4,11 @@ Toolbar Transparente | Sketchware
 
 ![Print 1](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124420.png)
 
-##### Antes de tudo temos que ativar a biblioteca do App Compat. Clique em Biblioteca › AppCompat e Design e ative-a.
+### Antes de tudo temos que ativar a biblioteca do App Compat. Clique em Biblioteca › AppCompat e Design e ative-a.
 
 ![Print 2](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124451.png)
 
-##### Feito isso, agora vamos adicionar o toolbar e status bar. Clique em Tela › Selecione a sua tela › agora adicione o Toolbar e StatusBar. Como na imagem abaixo:
+### Feito isso, agora vamos adicionar o toolbar e status bar. Clique em Tela › Selecione a sua tela › agora adicione o Toolbar e StatusBar. Como na imagem abaixo:
 
 ![Print 3](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124159.png)
 
@@ -51,3 +51,7 @@ if (statusBar > 0) {
 status_bar.getLayoutParams().height = getResources().getDimensionPixelSize(statusBar); }
 
 toolbar.setElevation(4f);
+
+### Pronto, agora é só compilar e veja como ficou
+
+![Print 1](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124420.png)
