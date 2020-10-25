@@ -28,3 +28,14 @@ Na onCreate da sua tela, adicione os seguintes códigos dentro do bloco Adiciona
 
 ![Print 6](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124121.png)
 
+1. Primeiro código:
+
+_toolbar.setBackgroundColor(Color.TRANSPARENT);
+
+Window window = this.getWindow();
+
+ if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) { window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS); window.addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+
+ window.setStatusBarColor(Color.TRANSPARENT); }
+ 
+ 
