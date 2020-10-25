@@ -10,4 +10,4 @@ Toolbar Transparente | Sketchware
 
 ##### Feito isso, agora vamos adicionar o toolbar e status bar. Clique em Tela › Selecione a sua tela › agora adicione o Toolbar e StatusBar. Como na imagem abaixo:
 
-!
+![Print 3](https://github.com/Gabriel-True/Tutoriais-Sketchware)
