@@ -28,7 +28,7 @@ Na onCreate da sua tela, adicione os seguintes códigos dentro do bloco Adiciona
 
 ![Print 6](https://github.com/Gabriel-True/Tutoriais-Sketchware/blob/main/Screenshot_20201025-124121.png)
 
-### Primeiro código:
+### 1. Primeiro código:
 
 _toolbar.setBackgroundColor(Color.TRANSPARENT);
 
@@ -38,7 +38,7 @@ Window window = this.getWindow();
 
  window.setStatusBarColor(Color.TRANSPARENT); }
  
- ### Segundo código:
+ ### 2. Segundo código:
  
  ((ViewGroup)_toolbar.getParent()).removeView(_toolbar);
 
