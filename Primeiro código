@@ -1,0 +1,7 @@
+_toolbar.setBackgroundColor(Color.TRANSPARENT);
+
+Window window = this.getWindow();
+
+if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) { window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS); window.addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+
+window.setStatusBarColor(Color.TRANSPARENT); }
